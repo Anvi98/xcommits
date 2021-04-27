@@ -1,5 +1,4 @@
 # frozen_string_literal: true
-
 # Main methods are defined here
 class Api
   def initialize
